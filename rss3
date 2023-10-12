@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<!DOCTYPE replace [<!ENTITY test SYSTEM "php://resource=index.php">]>
+<!DOCTYPE replace [<!ENTITY test SYSTEM "php://resource=index.php" >]>
 
 <rss version="2.0">
 
